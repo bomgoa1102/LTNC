@@ -16,4 +16,5 @@ main()
             tong+=min(200000,tong/20);
         cout<<tong<<endl;
     }
+    // asldkajsdl
 }
